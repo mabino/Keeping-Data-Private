@@ -1,8 +1,8 @@
 # Lesson Plan: Keeping Data Private
 
-## Background.
+## Background
 
-Data Privacy Day is an international holiday to recognize and spread knowledge of the importance of protecting one's own private data and the data we have access to.  Through discussion and activities with a classroom guest, students will consider the additional risks and challenges of keeping data private and sharing data appropriately in a digital context.
+[Data Privacy Day](https://staysafeonline.org/data-privacy-day/about-dpd/) is an international effort to recognize and spread knowledge of the importance of protecting one's own private data and the data we have access to.  Through discussion with a classroom guest, students will consider the additional risks and challenges of keeping data private and sharing data appropriately in a digital context.
 
 ## Subject Area(s)
 
@@ -26,7 +26,7 @@ Through discussion and activities with a classroom guest, students will:
 * Paper Shredder(s)
 * Index cards
 * Laptop and Projector
-* Slide of suggested data privacy strategies
+* Slide of suggested strategies
 * Oversized poster board
 
 ## Method
